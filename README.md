@@ -29,10 +29,3 @@ Welcome to **MadeByKhush** — a personal collection of web development projects
 > _Coming soon — Will be added as image previews of each project._
 
 ---
-
-## 🛠️ How to Run Locally
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/MadeByKhush/MadeByKhush.git
