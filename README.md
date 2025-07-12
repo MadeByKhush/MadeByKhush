@@ -1,31 +1,13 @@
 # MadeByKhush 💻✨
 
-Welcome to **MadeByKhush** — a personal collection of web development projects created with passion using **HTML**, **CSS**, and **JavaScript**. This repository showcases mini apps and utilities built during my journey of learning frontend development.
+Hey there! I'm Khush.  
+This repo is a small collection of things I’ve built while learning web development — using **HTML**, **CSS**, and **JavaScript**.
 
----
+It’s not about being perfect — it’s about getting better.  
+Some of these are experiments, some are ideas, and all are part of the journey.
 
-## 📂 Projects Included
+Thanks for checking it out.  
+More cool stuff coming soon. 🚀
 
-| Project Name     | Description                              |
-|------------------|------------------------------------------|
-| 🎨 Todo App       | Add and manage tasks with a neat UI.     |
-| 📐 Calculator     | Basic arithmetic calculator using JS.    |
-| 🎓 Grade Checker  | Enter marks to check your grade.         |
-| 🔢 Table Maker    | Multiplication table generator.          |
-| 🧾 Profile Viewer | Displays a user profile on button click. |
-
----
-
-## 🚀 Technologies Used
-
-- **HTML5**
-- **CSS3** (including gradients, blur effects, responsive design)
-- **Vanilla JavaScript (ES6)**
-
----
-
-## 📸 Screenshots
-
-> _Coming soon — Will be added as image previews of each project._
-
----
+—
+Made with logic, caffeine, and console.logs. ☕️🧠
